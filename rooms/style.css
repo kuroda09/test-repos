@@ -1,0 +1,79 @@
+.about-wthree {
+    padding: 50em 0 10em 0px;
+    background: #F4EEE0;
+    border-radius: 10px;
+    border: 2px solid #291b14;
+}
+
+
+.about-wthree p{
+    position: absolute;
+    left: 45%;
+    top: 20%;
+    color: #291b14;
+    padding: 0 0 10px 0;
+    letter-spacing: 2px;
+    font-size: 100%;
+    line-height: 2;
+}
+.featured{ 
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    color: #291b14;
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+
+.featured-about p{ 
+    position: absolute;
+    left: 45%;
+    top: 55%;
+    color: #291b14;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+#super{
+    position: absolute;
+    top: 20%;
+    left: 4%;
+    display: block;
+    max-width: 40%;
+    border-radius: 10px;
+    
+}
+#delux{
+    position: absolute;
+    top: 20%;
+    left: 4%;
+    display: block;
+    max-width: 40%;
+    border-radius: 10px;
+    
+}
+
+.title{
+    position: absolute;
+    top: 10%;
+    left: 70%;
+    font-family: 'Merienda', cursive;
+    font-size: 30px;
+}
+
+#back-button {
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    background-color: #291b14;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
